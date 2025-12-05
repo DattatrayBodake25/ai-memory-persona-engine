@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Reset Vite defaults — keep UI clean */
+:root {
+  color-scheme: light;
+}
+
+/* Optional: improve global font and spacing */
+body {
+  @apply bg-gray-100 text-gray-900 min-h-screen antialiased;
+}
