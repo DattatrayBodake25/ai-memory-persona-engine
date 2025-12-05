@@ -4,6 +4,8 @@ This project is a full-stack AI-powered system that demonstrates long-term memor
 
 The application includes a memory extraction pipeline, a persona transformation engine, and a polished UI for interaction — allowing users to send a message, view both neutral and persona-styled responses side-by-side, and visualize extracted memories in collapsible sections.
 
+Backend: https://ai-memory-persona-engine.onrender.com/
+Frontend: https://ai-memory-persona-engine.vercel.app/
 ## Features
 ### Memory Extraction
 - Identifies user preferences
