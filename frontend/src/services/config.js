@@ -1,1 +1,1 @@
-export const API_BASE_URL = "http://localhost:8000";  // For local dev
+export const API_BASE_URL = "https://ai-memory-persona-engine.onrender.com/";  // For production
